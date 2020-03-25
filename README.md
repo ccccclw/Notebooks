@@ -1,2 +1,2 @@
 # Tutorialsample
-simple python
+Python tutorials.
