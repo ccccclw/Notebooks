@@ -1,2 +1,1 @@
-# Tutorialsample
-simple python
+notebook
